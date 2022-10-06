@@ -1,4 +1,5 @@
-# C# Exercises and solutions - Решения задач на C#
+# Решения задач на C#
+C# Exercises and solutions
 
 ## Содержание
 * ***Multiplication*** - Задачи на умножение
